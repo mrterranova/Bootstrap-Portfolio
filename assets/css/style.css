@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url(../images/textured_paper.png)
+}
+
+.headnav {
+    width: 100%;
+    height: 80px;
+    margin: 0;
+    background: #fff;
+    z-index: 1;
+    border-bottom: 2px solid #ccc;
+
+}
+.header {
+    float: left;
+    color: #fff;
+    background-color: #4aaaa5;
+    display: flex;
+    margin-left: 9%;
+    margin-top: 20px;
+    justify-content: flex-end;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    padding: 5px;
+}
+nav {
+    float: right;
+    margin-top: 30px;
+    margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    color: #777777;
+}
+
+.container {
+    margin-top: 120px;
+}
+
+#jumbotron {
+    background-color: #fff;
+    padding: 0px 20px 10px 20px;
+}
+.display {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-size: 170%;
+    padding: 20px 10px 10px 10px;
+}
+#hline {
+    background: #ccc;
+    width: 100%;
+    height: 3px;
+}
+#lead {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+.footer {
+    margin-top: 200px;
+    z-index: 1;
+    display: flex;
+    border-top: 8px solid #4aaaa5;
+    justify-content: center;
+    align-content: flex-end;
+    background: #777777;
+    color: #fff;
+    width: 100%;
+    height: 100px;
+    padding-top: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main {
+position: absolute;
+margin: 10px 10px 10px 0;
+height: 200px;
+text-align: center;
+}
+
+.text {
+    position: relative;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    background: #4aaaa5;
+    margin-top: 150px;
+}
+
+#hang{
+    background: url(http://lorempixel.com/400/200/technics/1/);
+    background-color: black;
+}
+    
+    #rpg{
+    background: url(http://lorempixel.com/400/200/technics/2/);
+    background-color: black;
+}
+    #triv{
+    background: url(http://lorempixel.com/400/200/technics/5/);
+    background-color: black;
+}
+    #rut{
+    background:url(http://lorempixel.com/400/200/technics/7/);
+    background-color: black;
+}
+    #rock{
+    background: url(http://lorempixel.com/400/200/technics/9/);
+    background-color: black;
+}
+
+button {
+    background-color: #4aaaa5;
+    padding: 5px 10px 5px 10px;
+    outline: 0;
+    color: #fff;
+    border: 0;
+    box-shadow: none;
+    border-radius: 0px;
+}
+
+img {
+    float: left;
+    max-width:100%;
+    height:auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.col-md-9 {
+    margin-top: 30px;
+}
