@@ -1,5 +1,7 @@
 # Bootstrap-Portfolio
 
+deployed project: https://mrterranova.github.io/Bootstrap-Portfolio/
+
 #OVERVIEW
 
 This is my Basic Portfolio built using Bootstrap. The purpose of this porfolio was to replicate a webpage design as provided, personalizing it and developing it with bootstrap as the primary source of organization.
@@ -23,7 +25,7 @@ This is my Basic Portfolio built using Bootstrap. The purpose of this porfolio w
 
    * `index.html`: [980px](assets/images/980-index.jpg), [768px](assets/images/768-index.jpg), [640px](assets/images/640-index.jpg)
 
-   * `portfolio.html`: [980px](assets/images/980-portfolio.jpg), [768px](Images/768-portfolio.jpg), [640px](assets/images/640-portfolio.jpg)
+   * `portfolio.html`: [980px](assets/images/980-portfolio.jpg), [768px](assets/images/768-portfolio.jpg), [640px](assets/images/640-portfolio.jpg)
 
    * `contact.html`: [980px](assets/images/980-contact.jpg), [768px](assets/images/768-contact.jpg), [640px](assets/images/640-contact.jpg)
 
@@ -34,5 +36,10 @@ This is my Basic Portfolio built using Bootstrap. The purpose of this porfolio w
 9. **Protip**: Use the Chrome extensions [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) and [Browser Width](https://chrome.google.com/webstore/detail/browser-width/mlnegepkjlccabakompdmbcmdieaideh) to see the browser dimensions in Chrome.
 
 10. Deploy your new portfolio (now with media queries!) to GitHub Pages.
+
+
+### MY PROJECT
+
+You can view the project that I made here: https://mrterranova.github.io/Bootstrap-Portfolio/
 
 
