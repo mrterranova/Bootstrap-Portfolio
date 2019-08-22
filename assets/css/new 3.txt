@@ -1,0 +1,169 @@
+ARCHAEOPTERYX
+
+0
+	Name means "Pretty Jaw." 
+	Length of adult is 0.65m.
+	Ran on two legs.
+	Carnivore. 
+	Lived in the late Jurassic.
+	
+1
+	Name means "Chicken Mimic."
+	Length of adult is 1.9m tall at hip.
+	Ran on two legs. 
+	Carnivore.
+	Lived in late Cretaceous.
+
+2 			SARCOSUCHUS
+	Name means "Flesh Crocodile."
+	Length of adult is 11-12m.
+	Swam and walked on four legs.
+	Carnivore.
+	Live in Cretaceous.
+	
+3			CERATOSAURUS
+	Name means "Horned Lizard."
+	Length of adult is 5-6m.
+	Ran on two legs. 
+	Carnivore.
+	Live in Jurassic.
+	
+4			ELASMOSAURUS
+	Name means "Thin Plate Lizard."
+	Length of adult is 10m.
+	Swam with four flippers.
+	Carnivore.
+	Live in late Cretaceous.
+
+5			STYRACOSAURUS
+	Name means "Pointed Lizard."
+	Length of adult is 5.5m
+	Ran on four legs.
+	Herbivore.
+	Live in Late Cretaceous.
+
+6			STYGIMOLOCH
+	Name means "Demon from the river Styx."
+	Length of adult is 2-3m.
+	Ran on two legs.
+	Herbivore.
+	Live in late Cretaceous
+
+7			TROODON
+	Name means "Wounding Tooth."
+	Length of adult is 2-3.5m.
+	Ran on two legs.
+	Carnivore.
+	Live in Late Cretaceous.
+
+8			QUETZALCOATLUS
+	Name means "Feathered Serpent."
+	Length of adult is 10-11m.
+	Flew in sky.
+	Carnivore.
+	Live in late Cretaceous.
+
+9			BARYONYX
+	Name means "Heavy Claw."
+	Length of adult is 7.5-10m.
+	Ran on two legs.
+	Carnivore.
+	Live in early Cretaceous.
+
+10			PACHYCEPHALOSAURUS
+	Name means "Thick-Headed Lizard."
+	Length of adult is 4.5m.
+	Ran on two legs.
+	Herbivore.
+	Live in late Cretaceous.
+
+11			IGUANODON
+	Name means "Iguana Tooth."
+	Length of adult is 6-10m.
+	Ran on two legs. 
+	Herbivore.
+	Live in Cretaceous.
+
+12			ANKYLOSAURUS
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+13			BRONTOSAURUS
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+14			MOSASSAURUS
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+15			PTERODACTYL
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+16			STEGOSAURUS
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+17			TRICERATOPS
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+18			SPINOSAURUS
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+19			VELOCIRAPTOR
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+20			TYRANNOSAURUS
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+21			GIGANOTOSAURUS
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+22			DILOPHOSAURUS
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
+
+23			ARCHAEOPTERYX
+	Name means
+	Length of adult is 
+	Ran on 
+	
+	Live in 
